@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="apple-touch-icon" sizes="76x76" href="images/utc-log.png">
-  <title>UTCccccc</title>
+  <title>UTC</title>
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Sharp" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
@@ -158,7 +158,7 @@
           <small class="text-muted">Last 24 Hours</small>
         </div>
       </div>
-      <!--Este class recent- orders es nesesario para poner tablas con
+      <!--Este class recent- orders es nesesario para poner tablas con 
       reponsive disaing no pongan tablas tipo card-->
       <div class="recent-orders">
         <h2>Recent Orders</h2>
@@ -206,7 +206,7 @@
         <div class="updates">
           <div class="update">
             <div class="profile-photo">
-              <img src="images/profile-2.jpg" alt="">
+              <img src="../public/images/profile-2.jpg" alt="">
             </div>
             <div class="message">
               <p><b>Mike Tyson</b>received his order of Night lion tech GPS drone.</p>
